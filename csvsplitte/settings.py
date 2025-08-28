@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-e4c!c3+usf@derygfw3b-r7ua6pv2tf)qk(683(pn3*z97^l3i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["69.62.86.188", "csvsplit.blackgrapessoftwares.shop"]
 
 
 # Application definition
